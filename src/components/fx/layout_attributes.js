@@ -21,7 +21,7 @@ module.exports = {
     clickmode: {
         valType: 'flaglist',
         role: 'info',
-        flags: ['event', 'select'],
+        flags: ['event', 'select', 'anywhere'],
         dflt: 'event',
         editType: 'plot',
         extras: ['none'],
