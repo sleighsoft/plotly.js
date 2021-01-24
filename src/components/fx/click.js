@@ -47,3 +47,4 @@ module.exports = function click(gd, evt, subplot) {
         if(evt.stopImmediatePropagation) evt.stopImmediatePropagation();
     }
 };
+
